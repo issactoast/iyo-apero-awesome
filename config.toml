@@ -51,7 +51,7 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customheadingFontFamily = "NanumMyeongjo"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
